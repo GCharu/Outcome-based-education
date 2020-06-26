@@ -1,0 +1,287 @@
+c1,ETMA 101 CO1,"Students will be able to apply the knowledge of successive differentiation in various problems, different tests to find the nature of the infinite series and Taylor’s and Maclaurin’s series to find the expansion of mathematical functions."
+c1,ETMA 101 CO2,"Students will gain thorough knowledge of the asymptotes of Cartesian curves, radius of curvature and trace the Cartesian, parametric and polar curves, application of integration and use of reduction formulae in finding the integration. They will also learn the fundamentals of Beta and Gamma functions."
+c1,ETMA 101 CO3,"Students will learn theory of matrices, its inverse, rank and apply it to find the consistency and inconsistency of homogeneous and non-homogeneous linear systems. They will also apply the knowledge of the eigen values and eigen vectors in solving problems."
+c1,ETMA 101 CO4,"Students will be acquainted with first order differential equations (Leibnitz and Bernoulli’s   equation,  Exact  differential  equation  and  its  reducible  form),  linear differential  equations  of  higher  order  and  also  gain  the  knowledge of  Bessel’s  and Legendre’s equations, functions and their recurrence relations."
+c6,ETPH 103 CO1,"Will be able to understand the concepts of interference, diffraction and polarization; they can then use it to solve problems related to newton’s ring, diffraction grating and polarimeters"
+c6,ETPH 103 CO2,Will be able to know more about various types of laser and fibre optic technologies and their applications.
+c6,ETPH 103 CO3,Will be able to understand concepts related to special theory of relativity and connect it to real life problems.
+c6,ETPH 103 CO4,"Will be able to understand about nuclear fission, fusion, accelerators and nuclear reactors and connect it to the problems associated with their applications."
+c6,ETME 105 CO1,Become familiar with the machining manufacture and production fundamentals.
+c6,ETME 105 CO2,Become familiar with the actual manufacturing technology and standards adopted on shop floor through hands on experimentation.
+c6,ETME 105 CO3,"Decide and graphically represent the sequence of machining operations, which are most appropriate from the functionality point of view."
+c6,ETME 105 CO4,"Learn the concepts of machining manufacture, which are important to minimize the production cost and production time along with the significant improvement in the quality of end product."
+c6,ETEE 107 CO1,To familiarize students with basic laws and theorems governing DC electric circuits. This knowledge will enable them to solve DC circuits.
+c6,ETEE 107 CO2,To familiarize students with basic laws and theorems governing AC electric circuits. This knowledge will enable them to solve single and three phase AC circuits.
+c6,ETEE 107 CO3,To familiarize students construction and working of various types of electrical measuring instruments so as to apply this knowledge for proper selection of measuring instruments for desired purpose.
+c6,ETEE 107 CO4,To enable students to learn fundamentals of ac and dc machines so as to use this knowledge to identify type of motor to be used for a particular application.
+c7,ETHS 109 CO1,"The course will help the students appreciate the essential complementarity  between ‘VALUES’ and ‘SKILLS’ and assists students to imbibe ethical, moral, national and cultural values."
+c7,ETHS 109 CO2,"The course will facilitate the development of a holistic perspective among students towards life, profession and happiness, based on the correct understanding of the human reality and the rest of the existence."
+c7,ETHS 109 CO3,Students will learn to develop an understanding of the importance of ethics and sustainability in the modern organization as well as raise awareness of one’s place and role in a society.
+c7,ETHS 109 CO4,"The course will assist the prospective engineers to handle emotions including tolerance and behavioral responses, building positive bonding with colleagues and employ professional responsibilities."
+c6,ETCS 111 CO1,Basic Computer Organization and Peripheral Devices.
+c6,ETCS 111 CO2,Overview of types and architecture of Operating System
+c6,ETCS 111 CO3,Basics of Networking and DBMS
+c6,ETCS 111 CO4,Libre Office Software
+c6,ETCH 113 CO1,"Analyze the combustion data of solid, liquid and gasoline fuel and find the calorific value of fuel based on experimental and theoretical methods; along with the analysis  of flue gases ."
+c6,ETCH 113 CO2,Appreciate the importance of catalytic chemical reactions in industry and life sciences.
+c6,ETCH 113 CO3,Analyze the quality of water and can remove various impurities; soften water by using various methods discussed in this chapter for domestic as uses as well as for industrial uses.
+c6,ETCH 113 CO4,Explain what is corrosion and how it can be prevented; and will be able to define various factors responsible for corrosion.
+c1,ETCS 157 CO1,Identify various parts of a Personal Computer
+c1,ETCS 157 CO2,Use commands and utilities of DOS and windows
+c1,ETCS 157 CO3,Install and use Debian Linux
+c1,ETCS 157 CO4,Create documents using Libra office
+c1,ETMA 102 CO1,"Students will be able to apply the knowledge of partial differentiation in various problems. They will learn about Euler’s Theorem on homogeneous functions, derivatives of implicit functions, total derivative, change of variables, Jacobians, Taylor’s theorem for function of two variables, Error and approximation and their use in problems. They will be acquainted with extreme values of function of several variables, Lagrange’s method of undetermined multipliers and its application to various problems. They will gain knowledge of formulation of partial differential equations and capable of applying methods for finding solution of first order linear and nonlinear partial differential equations."
+c1,ETMA 102 CO2,"Students will gain thorough knowledge of the Laplace Transformation and Inverse Laplace Transformation of standard functions and its application to various problems. They will also learn the properties of Laplace Transformation and Convolution Theorem and use of them in finding Laplace of variety of questions. They will be acquainted with Unit step function, Impulse function and Periodic function its Laplace Transform and their use in solving problems. They will be made aware of their application in finding the solution of ordinary differential equations."
+c1,ETMA 102 CO3,"Students will learn about Complex Function and its derivatives, Analytic function, necessary condition for the function to be analytic – Cauchy Riemann Equations, Conformal and Bilinear mappings and their applications to questions. They will also apply the knowledge of the Complex integration in solving problems. They will gain knowledge of Taylor’s and Laurent’s series and use it to expand complex functions, zeros and singularities of complex functions. They will be acquainted with Residues, finding residues of complex functions, Residue Theorem and its application in Evaluation of real definite integrals."
+c1,ETMA 102 CO4,"Students will be acquainted with multiple integrals: Double and Triple Integration, change of order of integration and use in solving questions. They will also gain the knowledge  of  Gradient,  Divergence,  Curl  and  directional  derivatives  by  solving questions. They will learn about Line integral, Surface integral and volume integrals. They will apply Green’s Theorem, Stoke’s Theorem and Gauss Divergence Theorem to various important problems."
+c6,ETPH 104 CO1,"Will be able to understand about Maxwell’s equations, problems related to electromagnetism and its application to conducting and non-conducting media."
+c6,ETPH 104 CO2,Will get familiarized with statistical physics and solution of advanced level problems.
+c6,ETPH 104 CO3,"Will be able to understand the basic concepts of atomic and quantum physics and problems relating to wave functions, wave equations and its applications."
+c6,ETPH 104 CO4,"Will clearly understand about the concepts of crystal structure and the types of semiconductor, energy band gap, biasing and its application,  Hall Effect and Kronig- Penny Model."
+c6,ETEC 106 CO1,To acquire knowledge about semiconductor physics the intrinsic and extrinsic materials.
+c6,ETEC 106 CO2,"To learn the basics of semiconductor diodes, BJT and their small signal and high frequency analysis and also their applications like regulators, rectifiers etc."
+c6,ETEC 106 CO3,To study and analyze the performance of FET and MOSFET on the basis of their operation and working.
+c6,ETEC 106 CO4,To study the basic operations of logic gates and Boolean algebra and also its applications.
+c1,ETCS 108 CO1,Logic building practice using flowchart / algorithms
+c1,ETCS 108 CO2,"Understand the basics of C- programming- data types, types of operators, decision making components and loops"
+c1,ETCS 108 CO3,Design programs using primitive and user defined data types
+c1,ETCS 108 CO4,Create the programs based on real world problems
+c1,ETME 110 CO1,To understand the basic principle of Mechanics and its application in Engineering field.
+c1,ETME 110 CO2,To design and develop the engineering system by applying the fundamental of engineering mechanics.
+c1,ETME 110 CO3,"To understand the basic fundamental governing equation for, impact, rectilinear and curvilinear motion of particle as well as for rigid body."
+c1,ETME 110 CO4,To understand the different types of rigid body motions as well as their governing equations and analysis of Beam.
+c4,ETHS 112 CO1,Students will learn to use the standard grammar and mechanics of British English.
+c4,ETHS 112 CO2,"Students will learn new vocabulary, use them correctly in a sentence, and understand their meaning in text."
+c4,ETHS 112 CO3,Students will be able to use proper format for all types of technical writing and enhance the language and communication competence.
+c4,ETHS 112 CO4,"Students will be able to increase confidence in their ability to read, comprehend, organize and retain written information."
+c3,ETEN 114 CO1,Students will be able to analyze the multidisciplinary nature of environmental studies and to understand the interconnection and importance of different species within an ecosystem.
+c3,ETEN 114 CO2,Students will be able to appreciate the importance of different natural resources and understand the effects of their over-exploitation.
+c3,ETEN 114 CO3,Students will be able to analyze the impacts of different heavy metals on the human health/environment and to understand the importance of different eco-friendly polymers and will also be able to analyze the impacts of different types of pollution on the human health /environment and to understand the importance of green chemistry along with its principles and tools.
+c3,ETEN 114 CO4,Students will be able to understand the social issues pertaining to increase in population and to know how to act during the natural disaster and will be acquainted with different environmental protection act.
+c1,ETCS 154 CO1,Use control structure in C Programs
+c1,ETCS 154 CO2,Write C programs using functions (including recursive functions)
+c1,ETCS 154 CO3,Apply the concept of array and strings in programs.
+c1,ETCS 154 CO4,Develop Programs using Files.
+c1,ETMA 201 CO1,"Ability to understand fourier series and fourier transform, Application of fourier transform to solve partial differential equations."
+c1,ETMA 201 CO2,"Ability to express discrete systems as a difference equations, difference equations can be solved by using z-transform."
+c1,ETMA 201 CO3,"Ability to solve equations, simultaneous equations. Interpolate the values for equi-spaced and unequi-spaced values."
+c1,ETMA 201 CO4,"Ability to differentiate and integrate the discrete system, solve ordinary differential equations."
+c1,ETCS 203 CO1,"Apply symbolic logic, predicate calculus and proof techniques."
+c1,ETCS 203 CO2,"Use mathematical concepts of sets, relations, combinatory and lattices"
+c1,ETCS 203 CO3,Put in to practice the principal of mathematical induction recurrence relation and graph theory
+c1,ETCS 203 CO4,Define various algebraic structure and concepts of Boolean Algebra.
+c6,ETEC 205 CO1,"Students will be able to understand the basic philosophy underlying the various number systems, negative number representation, binary arithmetic and the theory of Boolean algebra. They will also be able to understand the representation of switching functions using Boolean expressions and their minimization techniques along with some of the programmable logic devices and their use in realization of switching functions. Students will be able to analyse and design various combinational circuits using the concepts of Boolean Algebra."
+c6,ETEC 205 CO2,"Students will be aware of different logic families and their characteristics along with the knowledge of different types of memories. Students will also be able to understand the sequential logic circuits, analyse & design both in synchronous and Asynchronous modes for various complex logic and switching devices, their minimization techniques and their realizations."
+c6,ETEC 205 CO3,"Students will be able to analyse and design the practical applications of synchronous sequential circuits using different methods, the FSM for completely and incompletely specified sequential circuits."
+c6,ETEC 205 CO4,Students will be able to analyse and design the ASM using data path and control subsystem. They will be aware of fault detection and location in combinational and sequential circuits using different fault detection models and experiments.
+c1,ETEE 207 CO1,"Will be able to Represent periodic and non periodic signals in terms of mathematical functions develop a basic understanding of Laplace transform, inverse Laplace transform, properties of Laplace transform. Will be able to use the techniques of Laplace for complex waveforms analysis."
+c1,ETEE 207 CO2,"Will be able to do System modelling in terms of differential equations. Transient response of R, L, C, series and parallel circuits for impulse, step, ramp, sinusoidal and exponential signals by classical method. Will be able to apply Laplace transform techniques to circuits modelled by differential equations."
+c1,ETEE 207 CO3,"Will learn the fundamentals of graph theory, Understand the formulation of incidence matrix, tie-set matrix and cut set matrix, and use of these matrices in formulation of network response equation in nodal and mesh form. Will be able to learn basic concept of two port networks, Correlation between two-port parameters, Circuit analysis using network parameters"
+c1,ETEE 207 CO4,"Will be able to Characterize transfer functions of circuits in terms of its poles, zeros and gain constants. Will be able to Synthesize a passive network when the excitation and response are known. Synthesize one port network using two types of elements. Will learn various types of filter circuits and use this knowledge to design the power supply circuits."
+c1,ETCS 209 CO1,Apply linear and non-linear data structures for various applications.
+c1,ETCS 209 CO2,Implement Binary trees and binary search trees.
+c1,ETCS 209 CO3,Distinguish between various types of multi-way trees and graphs.
+c1,ETCS 209 CO4,Compare various searching and sorting algorithms..
+c1,ETCS 209 CO5,"Will be able to get in-depth knowledge, understanding and implementation of trees and graph."
+c6,ETCS 211 CO1,Describe various input/output devices for computer graphics and describe various graphical transformations..
+c6,ETCS 211 CO2,Apply various clipping algorithms and select appropriate curve & Illumination model for an application.
+c6,ETCS 211 CO3,"Use various shading models, visible surface detection and various multimedia devices."
+c6,ETCS 211 CO4,Evaluate various image compression methods.
+c1,ETCS 255 CO1,"Implement array, linked list, stack & queues"
+c1,ETCS 255 CO2,Design programs for tree and traversals of tree
+c1,ETCS 255 CO3,Write Programs for Graph Traversal Algorithms
+c1,ETCS 255 CO4,Compare various Sorting and Searching techniques
+c1,ETCS 257 CO1,Implement various fundamental graphics functions and algorithms including line and circle drawing algorithms.
+c1,ETCS 257 CO2,Apply concepts such as window/viewport clipping and geometric transformations
+c1,ETCS 257 CO3,Write programs to implement n-point Bezier curve
+c1,ETCS 257 CO4,Create basic animation using Blender
+c1,ETMA 202 CO1,"Understand the partial differential equations, solve the partial differential equations and apply the partial differential equations to study the physical phenomenon like initial and boundary value problems arising in the vibration of an elastic string clamped between two fixed points, one dimensional heat flow in a rod , and two dimensional heat flow under steady state condition."
+c1,ETMA 202 CO2,"Understand the concept of probability, addition and multiplication laws of probability, conditional probability, probability distributions, expectation, moments, and the applications of these concepts to evaluate various statistical quality measures."
+c1,ETMA 202 CO3,"Understand the method of curve fitting and its applications to fit the linear and parabolic curves, correlation, the coefficient of correlation, regression. Lines of regression, sampling, sampling distribution, level of significance, Testing of hypothesis."
+c1,ETMA 202 CO4,"Understand the linear programming, formulation of linear programming problems, solution of linear programming problems by Graphical method and Simplex method, Duality, Dual simplex method, solve Assignment and Transportation problems."
+c6,ETCS 204 CO1,Define various notation for representing numbers & Components of a processor.
+c6,ETCS 204 CO2,Write Programs using assembly language of     .
+c6,ETCS 204 CO3,Compare various designs and organizations available for CPU
+c6,ETCS 204 CO4,Differentiate between various types of memory and I/O organizations.
+c1,ETEC 206 CO1,Distinguish among various types of languages and corresponding machines.
+c1,ETEC 206 CO2,Design Context Free Languages and various normal forms of CFL.
+c1,ETEC 206 CO3,Describe recursive and recursive enumerable languages and design turing machines.
+c1,ETEC 206 CO4,Classify various problems in to complexity classes.
+c1,ETEC 206 CO5,Will be able to know about the different set of problems in NP category and their algorithms.
+c1,ETCS 208 CO1,Describe basic concepts of DBMS including ER-diagram.
+c1,ETCS 208 CO2,Perform Unary Binary Table Operations through SQL
+c1,ETCS 208 CO3,Improve database design through Normalization
+c1,ETCS 208 CO4,Select appropriate Transaction management technique and Storage Technique.
+c6,ETCS 210 CO1,Compare Function oriented (C) and Object Oriented (C++) programming language.
+c6,ETCS 210 CO2,"Define encapsulation, data abstraction, objects and classes."
+c6,ETCS 210 CO3,Use inheritance and polymorphism in a program.
+c6,ETCS 210 CO4,"Apply advanced concepts of C++ such as multiple inheritance, templates, container, streams and mainuplators."
+c6,ETCS 210 CO5,Students will be able to understand the power of the programming language through its application in research and application fields
+c4,ETEC 208 CO1,"Acquired knowledge about analog communication, different types of communication channels and random variable as well as random processes."
+c4,ETEC 208 CO2,To understand the basic concept of amplitude modulation and their different types.
+c4,ETEC 208 CO3,Acquired knowledge about Frequency modulation and Phase modulation transmission and reception.
+c4,ETEC 208 CO4,To learn the basics of noise and how to deal with it physically and mathematically.
+c1,ETCS 254 CO1,List Various components and Instructions of     
+c1,ETCS 254 CO2,Write Programs in GNU     simulator using Data Transfer Instructions and memory instructions
+c1,ETCS 254 CO3,Use Arithmetic Instructions of      in Assembly Programs
+c1,ETCS 254 CO4,Design Assembly Programs using Control Transfer and Logical Instructions
+c1,ETCS 256 CO1,Use DDL: for creating a Database schema
+c1,ETCS 256 CO2,Write Unary and Binary Table Operations using SQL
+c1,ETCS 256 CO3,"Design Queries for Group functions, Joins and retrieval of Data along with understanding the concept of various keys"
+c1,ETCS 256 CO4,"Write procedures, functions and triggers through PL/SQL"
+c1,ETCS 258 CO1,Design Programs in C Language.
+c1,ETCS 258 CO2,Use basic concepts of OOP
+c1,ETCS 258 CO3,Implement concepts of Polymorphism and Templates.
+c1,ETCS 258 CO4,"Write complex programs using OOP, Generic Programming and File Handling"
+c1,ETCS 301 CO1,Analyze the asymptotic performance of various algorithms.
+c1,ETCS 301 CO2,Apply dynamic programming for finding optimal solutions.
+c1,ETCS 301 CO3,Use Greedy strategy for solving various problems.
+c1,ETCS 301 CO4,Select appropriate string matching algorithm and classify problems in various complexity classes.
+c1,ETCS 303 CO1,Differentiate between various Software Development Life Cycle (SDLC) Models and Requirement elicitation.
+c1,ETCS 303 CO2,Estimate the cost of a project after analyzing SRS.
+c1,ETCS 303 CO3,Analyze a software design and estimate the reliability of a software.
+c1,ETCS 303 CO4,Describe various techniques involved in software testing and maintenance.
+c1,ETCS 303 CO5,"Will be able to design the system with the latest tools, DevOps Scrum"
+c2,ETCS 307 CO1,"Describe the architecture, characteristics and compilation process of java."
+c2,ETCS 307 CO2,Use fundamental concepts of java programming language.
+c2,ETCS 307 CO3,Write programs using threads and components.
+c2,ETCS 307 CO4,Connect java program with Database and remote machine.
+c2,ETCS 307 CO5,"Will be able to understand, apply and implement the GUI designing using SWINGS and creating Web-based applications"
+c2,ETMS 311 CO1,Students will be able to understand the basic philosophy required for good Industrial relations maintained   in   any organization.
+c2,ETMS 311 CO2,Students will be aware of different labour laws (nationally or Internationally) provided by the   Government for   the welfare of the labours and also they will be aware of their important participation in any organization.
+c2,ETMS 311 CO3,Students will be able to know about the various Trade Unions and their importance in any country.
+c2,ETMS 311 CO4,Students will be able to analyse and design the various charts used in work study and students also will be aware of the various Quality techniques and concept of the T.Q.M. (Total Quality Management) in any industry and organization.
+c6,ETEC 303 CO1,Students will be able to commute the bandwidth and transmission power by analysing time and frequency domain spectra of signal required under various modulation schemes.
+c6,ETEC 303 CO2,Students will become familiar with random process and probability theory.
+c6,ETEC 303 CO3,"Students will be able to identify and describe different techniques in modern digital communication in particular source coding, modulation and detection, carrier modulation and various optimum filters."
+c6,ETEC 303 CO4,Students will be able to analyze digital modulation techniques and their applications.
+c7,ETHS 301 CO1,"Will be able to demonstrate communication competence and develop soft skills like personality development, interpersonal skills, perception and attitudes etc."
+c7,ETHS 301 CO2,"Will be able to compose different types of documentation like notice, memorandum, circular, agenda etc."
+c7,ETHS 301 CO3,"Will be able to understand the mode, means and purpose of presentation, how to organize content, nuances of delivery voice and body language."
+c7,ETHS 301 CO4,Will be able to utilize various interview skills and general etiquettes to meet employers expectation.
+c6,ETHS 351 CO1,Will be able to implement and analyze algorithms using divide and conquer
+c6,ETHS 351 CO2,Will be able to design Algorithms using dynamic Programming
+c6,ETHS 351 CO3,Design Algorithms using Greedy Approach
+c6,ETHS 351 CO4,Will be able write programs for various string-matching algorithms
+c6,ETHS 353 CO1,Will be able to gather software Requirement specification from the user
+c6,ETHS 353 CO2,Will be able to design various UML diagrams
+c6,ETHS 353 CO3,Will be able to perform various types of Structural testing
+c6,ETHS 353 CO4,Will be able to prepare time line and estimate the cost for a project
+c6,ETCS 357 CO1,Design Programs of Java using basic concepts of Java Programming
+c6,ETCS 357 CO2,"Implement Inheritance, Packages and Exception handling"
+c6,ETCS 357 CO3,Write Programs using Multi-threading and input-output Streams
+c6,ETCS 357 CO4,Use concepts of Client Server communication and Object serialization
+c6,ETCS 357 CO5,Will be able to implement a prototype using SWINGS and database conectivity
+c6,ETCS 359 CO1,Identify & analyze the problem and evaluate its feasibility.
+c6,ETCS 359 CO2,Apply the engineering knowledge to design its solution using systematic approach
+c6,ETCS 359 CO3,"Develop an engineering project, using the knowledge, skills, ethics and attitudes of a professional engineer"
+c6,ETCS 359 CO4,Analyze data and synthesize research findings
+c6,ETCS 359 CO5,Report research findings in written and verbal forms
+c6,ETCS 359 CO6,Demonstrate capacity to lead and manage change through collaboration with others
+c6,ETCS 359 CO7,Develop ability to present and defend their research work to a panel of experts.
+c6,ETCS 359 CO8,Use research findings to advance education theory and practice
+c1,ETCS 302 CO1,Design Lexical analyzer and parsers.
+c1,ETCS 302 CO2,Use compiler generation tools and techniques for SDT and Semantic check.
+c1,ETCS 302 CO3,"Compare various symbol table implementations, storage allocation strategies and error handling techniques."
+c1,ETCS 302 CO4,Generate and optimize machine code from an Intermediate Represenation.
+c1,ETCS 304 CO1,Distinguish various types of  Operating System and compare memory management techniques.
+c1,ETCS 304 CO2,Compare process scheduling algorithms and process synchronization mechanism.
+c1,ETCS 304 CO3,Describe various deadlock handling and device scheduling strategies
+c1,ETCS 304 CO4,Differentiate between various file systems.
+c6,ETCS 306 CO1,Understand Computer network architecture and its application for the communication among devices over the internet
+c6,ETCS 306 CO2,Analyse the functionalities of data link layer
+c6,ETCS 306 CO3,Analysis and application of standard network protocol (IEEE)
+c6,ETCS 306 CO4,Examine an interpreting network layer issues
+c1,ETCS 308 CO1,"Use markup languages such as HTML, DHTML and XML."
+c1,ETCS 308 CO2,Design client side programs and server side programs.
+c1,ETCS 308 CO3,Identify security threat to a program and to avoid it using security tools.
+c1,ETCS 308 CO4,List latest trends and applications of web technologies.
+c1,ETCS 310 CO1,Apply various search strategies for solving a problem.
+c1,ETCS 310 CO2,Use Propositional logic and first order logic in reasoning.
+c1,ETCS 310 CO3,List various application domains of AI.
+c1,ETCS 310 CO4,Discuss various learning techniques.
+c6,ETEE 310 CO1,"Students will be able to learn the architecture, PIN diagram, timing diagrams of various instructions for      microprocessor. Students will be able to identify various addressing modes, interrupts of     . Student will also be learning the assembly language programming."
+c6,ETEE 310 CO2,"Students will be introduced to the basics of     , difference between      &     . Students will further learn about the architecture, PIN diagram, memory organization and interfacing, addressing modes, instruction set, timing diagrams, assembler directives, interrupts and programming of     ."
+c6,ETEE 310 CO3,"Students will implement the concepts of interfacing. They will learn how to interface      (Programmable Peripheral Interface),     /     (Programmable Interval Timer),      (USART),           (Programmable Interrupt Control),      (Keyboard and Display Interface), Sample and Hold Circuit, DAC, ADC, LCD, Stepper Motor with     ."
+c6,ETEE 310 CO4,"Students will be given the overview of microcontroller     . They will further come to know about the architecture, memory organization, special function registers, port operations, memory  interfacing, I/O interfacing, interrupts, programmer model, operand addressing, instruction set and programming various resources of     ."
+c6,ETCS 352 CO1,Write Programs for non-pre-emptive CPU Scheduling algorithms
+c6,ETCS 352 CO2,Design Programs for pre-emptive CPU Scheduling algorithms
+c6,ETCS 352 CO3,Implement algorithms related to memory management
+c6,ETCS 352 CO4,Solve various process synchronization problems
+c6,ETCS 354 CO1,Designing and developing programs that implements various topologies
+c6,ETCS 354 CO2,Implementation/ simulation of the data link protocols using NS .
+c6,ETCS 354 CO3,Implementation of wireless network topology using wi-fi topology helper provided by NS .
+c6,ETCS 354 CO4,Implementation of routing algorithms
+c6,ETCS 354 CO5,Program in NS  for connecting multiple routers and nodes and building a hybrid topology and then calculating network performance
+c6,ETCS 356 CO1,Use markup languages to design web pages.
+c6,ETCS 356 CO2,Apply CSS to improvise the look and feel of web pages.
+c6,ETCS 356 CO3,Design forms using JavaScript
+c6,ETCS 356 CO4,Write client side and server-side programs using JSP.
+c1,ETCS 401 CO1,Will understand the the principles of information security and different types of threats and attacks.
+c1,ETCS 401 CO2,"Will understand and analyse the Global Information System, web services, e-commerce and digital forensics."
+c1,ETCS 401 CO3,Will be able to anlayse the access control and design related issues with these controls.
+c1,ETCS 401 CO4,Will be able to anlayse the access control and design related issues with these controls.
+c1,ETCS 401 CO5,Conducted seminars/workshops/summer training (   hrs)
+c6,ETCS 403 CO1,"Will clearly understand the testing principles, various terminologies used in testing process and limitations of testing. Also understand various factors involved in  quality management."
+c6,ETCS 403 CO2,"Will be familiar with the concept of Black box and White box testing which includes BVA, Equivalence class, Decision Table, Cause effect graphing, Path testing, Cyclomatic Complexity, Graph metrics and Mutation testing."
+c6,ETCS 403 CO3,Will be familiar with various quality assurance objectives and planning. Will clearly understand the various standards of quality and challenges in quality assurance.
+c6,ETCS 403 CO4,"Will clearly understand the prioritization guidelines and category, regression and slice based testing. Students will also learn the various levels of testing (unit, integration and system). Will be familiar with various static and dynamic tools used for testing. Students will also understand Object oriented testing, Class testing and GUI Testing."
+c6,ETCS 403 CO5,Will be able to implement the automated software testing using a tool
+c1,ETEC 405 CO1,"Students will be aware of the evolution of mobile radio communications by comparing   various   wireless   systems   and   will   have   an   overview   of generations of cellular systems. Students will also know about PCS, and important concepts of handoff and roaming used for call establishment. Students will be able to understand the basic cellular system and multiple access techniques. Students will be able to understand various fading in wireless channel modelling and will be able to calculate their BER performance."
+c1,ETEC 405 CO2,"Students will be aware of the evolution of mobile radio communications by comparing various wireless systems and will have an overview of generations of cellular systems. Students will also know about PCS, and important concepts of handoff and roaming used for call establishment. Students will be able to understand the basic cellular system and multiple access techniques. Students will be able to understand various fading in wireless channel modelling and will be able to calculate their BER performance."
+c1,ETEC 405 CO3,"Students will be able to understand  G Networks. Students will understand the entire concept of call transmission, handoff, network signalling, voice signal processing in GSM. Students will also be able to understand Cellular code division multiple access in detail."
+c1,ETEC 405 CO4,Students will be aware of  . G Networks like GPRS and EDGE. Students will be able to understand the concepts of Mobile IP. They will understand the architecture and concepts of Wireless LAN and their applications. They will learn about  G Mobile Networks such as WCDMA and CDMA     and will also know about IMT      vision. They will also learn about  G Networks.
+c1,ETEC 405 CO5,"Students will be able to understand various Wireless Communication Networks such as WLL, WPAN, Bluetooth, IEEE    .  , Wi-Max, their architecture, and applications and Global Mobile Satellite Systems. Students will have an idea of Adhoc networks"
+c1,ETCS 413 CO1,"Will  understand  the  compelling  need  for  data  warehousing,  its  building blocks or architecture, data marts, defining the business requirements, data pre-processing, ETL process, Dimensional Analysis, Information Package."
+c1,ETCS 413 CO2,"Would be familiarize with the principles of dimensional modeling, STAR Schema, SNOWFLAKE Schema, Families of Stars, concept of OLAP in the Data warehouse, multi-dimensional analysis, its advantages, OLAP operations, ROLAP and MOLAP models."
+c1,ETCS 413 CO3,"Will understand the basics of Data Mining, KDD Process, and Data Mining Techniques: Classification and Prediction, Data Mining Applications."
+c1,ETCS 413 CO4,"Will also learn the Clustering Technique, Outliers, MBR, Link Analysis, Neural Networks, Genetic Algorithms, data mining tools."
+c1,ETCS 413 CO5,"Will be able to learn, understand & create the advanced applications of data mining"
+c6,ETCS 423 CO1,"Will understand the basic concepts regarding database, know about query processing and techniques involved in query optimization and understand the concepts of database transaction and related database facilities including concurrency control, backup and recovery."
+c6,ETCS 423 CO2,"Would be able to understand the introductory concepts of some advanced topics in data management like distributed databases, data warehousing, deductive databases and be aware of some advanced databases like partial multimedia and mobile databases."
+c6,ETCS 423 CO3,They will be able to differentiate between DBMS and advanced DBMS and use  of  advanced  database  concepts  and  become  proficient  in  creating database queries.
+c6,ETCS 423 CO4,"Will gain some confidence on how to deal with problems which may arrive in SQL     , SQL      and various web services."
+c2,ETEC 463 CO1,Install and Configure NS  Simulator
+c2,ETEC 463 CO2,Create and test simple Wi-Fi network using NS 
+c2,ETEC 463 CO3,Analyze and Visualize Data using NetAdmin and Wireshark
+c2,ETEC 463 CO4,Generate GSM call between mobile stations using MATLAB/OMNET
+c8,ETCS 459 CO1,Identify & analyze the problem and evaluate its feasibility.
+c8,ETCS 459 CO2,Apply the engineering knowledge to design its solution using systematic approach
+c8,ETCS 459 CO3,"Develop an engineering project, using the knowledge, skills, ethics and attitudes of a professional engineer"
+c8,ETCS 459 CO4,Analyze data and synthesize research findings
+c8,ETCS 459 CO5,Report research findings in written and verbal forms
+c8,ETCS 459 CO6,Demonstrate capacity to lead and manage change through collaboration with others
+c8,ETCS 459 CO7,Develop ability to present and defend their research work to a panel of experts.
+c8,ETCS 459 CO8,Use research findings to advance education theory and practice
+c8,ETCS 461 CO1,Identify & analyze the problem and evaluate its feasibility.
+c8,ETCS 461 CO2,Apply the engineering knowledge to design its solution using systematic approach
+c8,ETCS 461 CO3,"Develop an engineering project, using the knowledge, skills, ethics and attitudes of a professional engineer"
+c8,ETCS 461 CO4,Analyze data and synthesize research findings
+c8,ETCS 461 CO5,Report research findings in written and verbal forms
+c8,ETCS 461 CO6,Demonstrate capacity to lead and manage change through collaboration with others
+c8,ETCS 461 CO7,Develop ability to present and defend their research work to a panel of experts.
+c8,ETCS 461 CO8,Use research findings to advance education theory and practice
+c1,ETIT 402 CO1,Describe mobile computing architecture.
+c1,ETIT 402 CO2,Illustrate various standards for mobile data link layer.
+c1,ETIT 402 CO3,Compare various routing and network layer protocols.
+c1,ETIT 402 CO4,List techniques required to support mobility and to describe mobile OS.
+c1,ETCS 402 CO1,"Will be able to understand and apply the unsupervised learning technique – Clustering, Principal component Analysis, Independent Component Analysis, Hidden Markov Model."
+c1,ETCS 402 CO2,"Will be able to understand reinforcement learning and control; analyze the value iteration and policy iteration, linear quadratic regulation."
+c1,ETCS 402 CO3,"Will be able to analyse logistic regression and various supervised learning techniques like – Naive Bayes, Support Vector Machine- kernels with combination of classifiers – Bagging and Boosting."
+c1,ETCS 402 CO4,"Will be able to understand and apply the unsupervised learning technique – Clustering, Principal component Analysis, Independent Component Analysis, Hidden Markov Model."
+c7,ETHS 402 CO1,"Will be able to understand reinforcement learning and control; analyze the value iteration and policy iteration, linear quadratic regulation."
+c7,ETHS 402 CO2,Will enable the students to understand the need and importance of value education and professional ethics.
+c7,ETHS 402 CO3,"Will be able to realize, engineer’s responsibility for safety towards society."
+c7,ETHS 402 CO4,"Will be able to realize, to the national and international values for global development."
+c1,ETCS 412 CO1,"Will enable them to understand various professional responsibilities, rights and ethical codes."
+c1,ETCS 412 CO2,Will be able to learn and understand various O-O concepts along with their applicability contexts and to develop design solutions for problems on various O-O concepts.
+c1,ETCS 412 CO3,Will gain thorough understanding of system development based on user requirements and several types of system models.
+c1,ETCS 412 CO4,Will become familiar with the concepts of object oriented construction and testing process.
+c9,ETCS 460 CO1,"Will gather sufficient information about basic behavioral modelling and learn about UML diagrams, modelling techniques and processes."
+c9,ETCS 460 CO2,Apply the engineering knowledge to design its solution using systematic approach
+c9,ETCS 460 CO3,"Develop an engineering project, using the knowledge, skills, ethics and attitudes of a professional engineer"
+c9,ETCS 460 CO4,Analyze data and synthesize research findings
+c9,ETCS 460 CO5,Report research findings in written and verbal forms
+c9,ETCS 460 CO6,Demonstrate capacity to lead and manage change through collaboration with others
+c9,ETCS 460 CO7,Develop ability to present and defend their research work to a panel of experts.
+c9,ETCS 460 CO8,Use research findings to advance education theory and practice
